@@ -1,14 +1,13 @@
-# Crud_Controle_Financas
-
+# Crud Controle de Financas ![image](https://github.com/user-attachments/assets/31418c6c-14d7-4247-9441-b2c9dfa4df36)
 Este projeto é um sistema de controle financeiro desenvolvido com React. Ele permite que os usuários gerenciem suas receitas e despesas, oferecendo uma interface simples para acompanhar e categorizar dados financeiros.
 
-## Funcionalidades
+## Funcionalidades:
 - Adicionar, atualizar e excluir transações.
 - Acompanhar diferentes categorias de despesas e receitas.
 - Visualizar um resumo do status financeiro.
 - Design responsivo para desktop e mobile.
 
-## Instalação
+## Instalação:
 
 1. Clone o repositório:
    ```bash
@@ -32,8 +31,10 @@ Após iniciar o aplicativo, você pode:
 - Visualizar um resumo das receitas e despesas.
 
 ## Tecnologias Utilizadas:
-![image](https://github.com/user-attachments/assets/0b16c3c0-67ea-4bfb-9486-b9b957f3cc3c)
-![image](https://github.com/user-attachments/assets/c792f7cb-a887-4653-b481-8b31286f9dfe)
+![image](https://github.com/user-attachments/assets/2155389a-c2b2-47cd-84bc-4906a3b64af3)
+![image](https://github.com/user-attachments/assets/b6d40c89-a593-4a54-9e17-9b20c1e16642)
+
+
 
 
 
