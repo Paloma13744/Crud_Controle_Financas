@@ -7,13 +7,13 @@ import {
   FaDollarSign,
 } from 'react-icons/fa';
 
-const info = () => {
+const info = ({income,expense,total}) => {
   return (
     <div className='info'>
       <div className='container'>
-        <Itens title='Entradas:' Icons={FaRegArrowAltCircleUp} />
-        <Itens title='Saídas:' Icons={FaRegArrowAltCircleDown} />
-        <Itens title='Saldo disponível:' Icons={FaDollarSign} />
+        <Itens title='Entradas:' Icons={FaRegArrowAltCircleUp} value={income} />
+        <Itens title='Saídas:' Icons={FaRegArrowAltCircleDown} value={expense} />
+        <Itens title='Saldo disponível:' Icons={FaDollarSign} value={total} />
       </div>
     </div>
   );

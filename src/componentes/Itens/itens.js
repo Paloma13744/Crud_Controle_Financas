@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './itens.scss';
 
-const Itens = ({ title, Icons }) => {
+const Itens = ({ title, Icons , value}) => {
   return (
     <div className="itens">
       <div className="container">
@@ -10,7 +10,7 @@ const Itens = ({ title, Icons }) => {
           <div className="headertitulo">{title}</div>
           <Icons />
         </div>
-        <div className="total">1000</div>
+        <div className="total">{value}</div>
       </div>
     </div>
   );
