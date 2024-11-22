@@ -1,4 +1,4 @@
-# Crud Controle de Financas ![money-bag](https://github.com/user-attachments/assets/52e5d123-c1b6-408f-afc7-dd11cd508e9b)
+# Crud Controle de Financas  ![money-bag](https://github.com/user-attachments/assets/d9c9f2a6-4700-4869-80a0-230cf7dc5778)
 
 Este projeto é um sistema de controle financeiro desenvolvido com React. Ele permite que os usuários gerenciem suas receitas e despesas, oferecendo uma interface simples para acompanhar e categorizar dados financeiros.
 
@@ -33,9 +33,9 @@ Após iniciar o aplicativo, você pode:
 
 ## Tecnologias Utilizadas:
 
-![physics](https://github.com/user-attachments/assets/e31d5466-f4bf-4f42-b53d-b0124da228c3)
+![physics](https://github.com/user-attachments/assets/e31d5466-f4bf-4f42-b53d-b0124da228c3)   ![sass](https://github.com/user-attachments/assets/60db7637-758f-4ded-8be6-db225d36d661)
 
-![sass](https://github.com/user-attachments/assets/60db7637-758f-4ded-8be6-db225d36d661)
+
 
 
 
